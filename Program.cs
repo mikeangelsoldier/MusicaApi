@@ -1,6 +1,15 @@
+using MusicaApi.Models;
+using MusicaApi.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// Add services to the container.
+builder.Services.Configure<MusicaDatabaseSettings>(
+    builder.Configuration.GetSection("MusicaDatabase"));
+
+builder.Services.AddSingleton<CancionService>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

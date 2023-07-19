@@ -14,7 +14,7 @@ namespace MusicaApi.Models
 
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public int Id { get; set; }
+        public string? Id { get; set; }
 
         public string? Nombre { get; set; }
 
@@ -22,7 +22,7 @@ namespace MusicaApi.Models
 
         public string? Banda { get; set; }
 
-        public string? Discografia { get; set; }
+        public string? Discografica { get; set; }
 
     }
 }
