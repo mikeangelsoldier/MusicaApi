@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi/MusicaApi.csproj": {}
+    "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi.csproj": {}
   },
   "projects": {
-    "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi/MusicaApi.csproj": {
+    "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi/MusicaApi.csproj",
+        "projectUniqueName": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi.csproj",
         "projectName": "MusicaApi",
-        "projectPath": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi/MusicaApi.csproj",
+        "projectPath": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi.csproj",
         "packagesPath": "/home/migue/.nuget/packages/",
-        "outputPath": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/MusicaApi/obj/",
+        "outputPath": "/home/migue/Proyectos .net y react/Proyectos .net/MusicaReactNetCoreAPI/back/MusicaApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/migue/.nuget/NuGet/NuGet.Config"
@@ -42,6 +42,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.8, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.20.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
