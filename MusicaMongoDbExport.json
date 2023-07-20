@@ -1,0 +1,8 @@
+{"_id":{"$oid":"64b758234526da4e1dd8783a"},"Nombre":"The Number of the Beast","Genero":"Heavy metal","Banda":"Iron Maiden","Discografica":"EMI"}
+{"_id":{"$oid":"64b758234526da4e1dd8783b"},"Nombre":"Run to the Hills","Genero":"Heavy metal","Banda":"Iron Maiden","Discografica":"EMI"}
+{"_id":{"$oid":"64b778d25c66eb95a7bd5338"},"Nombre":"Awaking the centuries","Genero":"Metal sinfónico","Banda":"Haggard","Discografica":"Drakkar Entertainment"}
+{"_id":{"$oid":"64b88eb47264cc3cd2f2f96a"},"Nombre":"Chapter I - Tales of Ithiria","Genero":"Metal sinfónico","Banda":"Haggard","Discografica":"Drakkar Entertainment"}
+{"_id":{"$oid":"64b88fc37264cc3cd2f2f96b"},"Nombre":"Harlequin forest","Genero":"Death metal progresivo","Banda":"Opeth","Discografica":"Roadrunner"}
+{"_id":{"$oid":"64b8cb02c66d107ac4b49707"},"Nombre":"Ghost of perdition","Genero":"Rock progresivo","Banda":"Opeth","Discografica":"Roadrunner"}
+{"_id":{"$oid":"64b8cb34c66d107ac4b49709"},"Nombre":"Death Whispered a Lullaby","Genero":"Rock Progresivo","Banda":"Opeth","Discografica":"Music for Nations"}
+{"_id":{"$oid":"64b8cd8ac66d107ac4b4970a"},"Nombre":"Windowpane","Genero":"Metal","Banda":"Opeth","Discografica":"Music for Nations"}
